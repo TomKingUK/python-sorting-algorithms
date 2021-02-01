@@ -4,8 +4,8 @@
 A selection of common sorting algorithms typed, tweaked and tested in python 3 to benefit my own understanding of sorting algorithms.
 
 ## To do
-Heap Sort
-Reverse (Default: Reverse=False)
+* Heap Sort
+* Reverse (Default: Reverse=False)
 
 ## Sources
 ### Books
